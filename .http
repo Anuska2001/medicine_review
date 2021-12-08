@@ -1,0 +1,8 @@
+POST http://localhost:3000/reviews
+Content-Type: application/json
+
+{
+    "Mname": "Calpol",
+    "Rname": "Anuska",
+    "review": "LifeSaver"
+}
